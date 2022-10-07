@@ -1,0 +1,17 @@
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.deps.json
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.dll
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.pdb
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.AssemblyInfo.cs
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.dll
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/refint/BuberDinner.Infrastructure.dll
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.pdb
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/ref/BuberDinner.Infrastructure.dll
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Application.dll
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Domain.dll
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Application.pdb
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Domain.pdb
+/Users/wangtong/Desktop/project/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.csproj.CopyComplete
